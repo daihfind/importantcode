@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/mocle/index_compute.py" line="158" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="333fed26-41bc-471d-b01c-078bcbd57e15" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mocle" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="kmeansImage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image segmentation/kmeansImage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9004581mock-random-1000-10nomal4.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581mock-random-1000-10nomal4.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mockgenimage.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/image segmentation/mockgenimage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-864">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9004581mock-random-1000-10nomal3.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581mock-random-1000-10nomal3.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9004581mock-random-1000-10nomal2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581mock-random-1000-10nomal2.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fitness</find>
+      <find>FitnessMin</find>
+      <find>population</find>
+      <find>check_clusterings</find>
+      <find>6</find>
+      <find>print</find>
+      <find>random</find>
+      <find>tolist</find>
+      <find>array(</find>
+      <find>,</find>
+      <find>round</find>
+      <find>adjusted_rand_score</find>
+      <find>multiRunSelect</find>
+      <find>da</find>
+      <find>wgraph_MCLA</find>
+      <find>49代</find>
+      <find>运行</find>
+      <find>第3</find>
+      <find>transformation</find>
+      <find>shape</find>
+      <find>set</find>
+      <find>difference</find>
+      <find>computeR</find>
+      <find>次</find>
+      <find>代</find>
+      <find>concept-modes</find>
+      <find>nmi</find>
+      <find>结束</find>
+      <find>zeros</find>
+      <find>pixels</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mocle/index_test.py" />
+        <option value="$PROJECT_DIR$/mocle/kmeans_test.py" />
+        <option value="$PROJECT_DIR$/test/array_test.py" />
+        <option value="$PROJECT_DIR$/test/block_test.py" />
+        <option value="$PROJECT_DIR$/mocle/cr_compute.py" />
+        <option value="$PROJECT_DIR$/mocle/newKmeans.py" />
+        <option value="$PROJECT_DIR$/mocle/rsnn.py" />
+        <option value="$PROJECT_DIR$/test/nsga2_deap_test.py" />
+        <option value="$PROJECT_DIR$/test/nsga2_deap_rsnn.py" />
+        <option value="$PROJECT_DIR$/newmethod/fsrsnn.py" />
+        <option value="$PROJECT_DIR$/newmethod/rsnn.py" />
+        <option value="$PROJECT_DIR$/test/nsga2_deap.py" />
+        <option value="$PROJECT_DIR$/test/listtest.py" />
+        <option value="$PROJECT_DIR$/newmethod/new2.py" />
+        <option value="$PROJECT_DIR$/test/new.py" />
+        <option value="$PROJECT_DIR$/newmethod/new.py" />
+        <option value="$PROJECT_DIR$/test/originaldata.py" />
+        <option value="$PROJECT_DIR$/test/agglomerative.py" />
+        <option value="$PROJECT_DIR$/test/kmeans_test.py" />
+        <option value="$PROJECT_DIR$/test/mcla.py" />
+        <option value="$PROJECT_DIR$/test/addspc.py" />
+        <option value="$PROJECT_DIR$/test/fsrsnn.py" />
+        <option value="$PROJECT_DIR$/test/addEnsemble.py" />
+        <option value="$PROJECT_DIR$/test/kmeans.py" />
+        <option value="$PROJECT_DIR$/test/subpoptest.py" />
+        <option value="$PROJECT_DIR$/test/ace_test.py" />
+        <option value="$PROJECT_DIR$/test/addDsceMoreCross.py" />
+        <option value="$PROJECT_DIR$/test/write_file_test.py" />
+        <option value="$PROJECT_DIR$/writefile/glassDataset.txt" />
+        <option value="$PROJECT_DIR$/writefile/lungcancerPartition-1.clu" />
+        <option value="$PROJECT_DIR$/test/tripleDsce.py" />
+        <option value="$PROJECT_DIR$/writefile/write_file_test.py" />
+        <option value="$PROJECT_DIR$/test/multithread.py" />
+        <option value="$PROJECT_DIR$/test/dsce_test.py" />
+        <option value="$PROJECT_DIR$/test/addDsce.py" />
+        <option value="$PROJECT_DIR$/test/dsce.py" />
+        <option value="$PROJECT_DIR$/test/rsnn.py" />
+        <option value="$PROJECT_DIR$/test/addDscenew.py" />
+        <option value="$PROJECT_DIR$/mocle/dsmoc_image.py" />
+        <option value="$PROJECT_DIR$/mocle/mocle.py" />
+        <option value="$PROJECT_DIR$/slic_segment/111.py" />
+        <option value="$PROJECT_DIR$/image segmentation/segmentation.py" />
+        <option value="$PROJECT_DIR$/DSMOC/dsmoc.py" />
+        <option value="$PROJECT_DIR$/slic_segment/slic.py" />
+        <option value="$PROJECT_DIR$/image segmentation/mockgendata.py" />
+        <option value="$PROJECT_DIR$/test/mockdatatrans.py" />
+        <option value="$PROJECT_DIR$/mocle/index_compute.py" />
+        <option value="$PROJECT_DIR$/DSMOC/dsmoc_image.py" />
+        <option value="$PROJECT_DIR$/image segmentation/pbmSegmentation.py" />
+        <option value="$PROJECT_DIR$/image segmentation/kmeansImage.py" />
+        <option value="$PROJECT_DIR$/image segmentation/mockgenimage.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="95" />
+    <option name="y" value="-4" />
+    <option name="width" value="858" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+              <item name="aftersegmentationimagenew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+              <item name="DSMOC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+              <item name="image segmentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+              <item name="mockgensolution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+              <item name="mockimage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+              <item name="mockimagedata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+              <item name="slic_segment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mockgensolution" />
+      <recent name="$PROJECT_DIR$/imagelabel" />
+      <recent name="$PROJECT_DIR$/slic_segment" />
+      <recent name="$PROJECT_DIR$/aftersegmentationnimage" />
+      <recent name="$PROJECT_DIR$/image segmentation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/slic_segment" />
+      <recent name="$PROJECT_DIR$/writefile" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/mocle" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.mockgenimage">
+    <configuration name="dsmoc_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSMOC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mocle" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSMOC/dsmoc_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="kmeansImage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image segmentation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mocle" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image segmentation/kmeansImage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="mockdatatrans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mocle" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/mockdatatrans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="mockgendata" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image segmentation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mocle" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image segmentation/mockgendata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="mockgenimage" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image segmentation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mocle" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image segmentation/mockgenimage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="pbmSegmentation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image segmentation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mocle" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image segmentation/pbmSegmentation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.mockgenimage" />
+      <item index="1" class="java.lang.String" itemvalue="Python.mockdatatrans" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pbmSegmentation" />
+      <item index="3" class="java.lang.String" itemvalue="Python.kmeansImage" />
+      <item index="4" class="java.lang.String" itemvalue="Python.mockgendata" />
+      <item index="5" class="java.lang.String" itemvalue="Python.dsmoc_image" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.kmeansImage" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pbmSegmentation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.dsmoc_image" />
+        <item index="3" class="java.lang.String" itemvalue="Python.mockdatatrans" />
+        <item index="4" class="java.lang.String" itemvalue="Python.mockgendata" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_FIELDS" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="333fed26-41bc-471d-b01c-078bcbd57e15" name="Default" comment="" />
+      <created>1522914132757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522914132757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="95" y="-4" width="1853" height="901" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2896628" sideWeight="0.48828125" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.359375" sideWeight="0.50621283" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36979166" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="313" y="152" width="462" height="644" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35546875" sideWeight="0.49378714" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24820343" sideWeight="0.51171875" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7689331" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file:///usr/local/lib/python2.7/dist-packages/sklearn/metrics/cluster/unsupervised.py</url>
+          <line>168</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file:///usr/local/lib/python2.7/dist-packages/deap/benchmarks/__init__.py</url>
+          <line>402</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mocle/rsnn.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/newmethod/fsrsnn.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/newmethod/new2.py</url>
+          <line>374</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/new.py</url>
+          <line>407</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/addEnsemble.py</url>
+          <line>170</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/mcla.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mocle/mocle.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/fsrsnn.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/fsrsnn.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/fsrsnn.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/multithread.py</url>
+          <line>286</line>
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/addspc.py</url>
+          <line>338</line>
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/subpoptest.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/subpoptest.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/ace_test.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/tripleDsce.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="459" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/addDsce.py</url>
+          <line>255</line>
+          <option name="timeStamp" value="486" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/addDsce.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="489" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/addDsce.py</url>
+          <line>240</line>
+          <option name="timeStamp" value="498" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/addDscenew.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="502" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/mockdatatrans.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="503" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/image segmentation/segmentation.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="506" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DSMOC/dsmoc.py</url>
+          <line>290</line>
+          <option name="timeStamp" value="523" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/image segmentation/pbmSegmentation.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="525" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/mockdatatrans.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="528" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mocle/index_compute.py</url>
+          <line>274</line>
+          <option name="timeStamp" value="534" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mocle/index_compute.py</url>
+          <line>264</line>
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DSMOC/dsmoc_image.py</url>
+          <line>193</line>
+          <option name="timeStamp" value="536" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="537" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581PBM-(random(3-5))-1000-10-gen20MultiNomal3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581PBM-(random(3-5))-1000-10-gen20MultiNomal8.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581PBM-(random(3-5))-1000-10-gen20MultiNomal7.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581PBM-(random(3-5))-1000-10-gen20MultiNomal9.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/6000285PBM-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/1100005PBM-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/1001944PBM-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/1001944PBM-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0100892PBM-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0100892PBM-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/1000615PBM-(random(3-5))-1000-10-gen20MultiNomal4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/1000615PBM-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/1000615PBM-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/1000615PBM-(random(3-5))-1000-10-gen20MultiNomal2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/1000615PBM-(random(3-5))-1000-10-gen20MultiNomal3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/1000615PBM-(random(3-5))-1000-10-gen20MultiNomal5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-(random(3-5))-1000-10-gen20MultiNomal5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-(random(3-5))-1000-10-gen20MultiNomal7.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/1000615PBM-(random(3-5))-1000-10-gen20MultiNomal6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-(random(3-5))-1000-10-gen20MultiNomal8.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-(random(3-5))-1000-10-gen20MultiNomal9.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-(random(3-5))-1000-10-gen20MultiNomal6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-(random(3-5))-1000-10-gen20MultiNomal4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-(random(3-5))-1000-10-gen20MultiNomal3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-(random(3-5))-1000-10-gen20MultiNomal2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/1000615PBM-(random(3-5))-1000-10-gen20MultiNomal7.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0100113PBM-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0100113PBM-(random(2-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0100113PBM-(random(2-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/6000285PBM-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/1100005PBM-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0004774PBM-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0004774PBM-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSMOC/dsmoc_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="142" column="34" lean-forward="true" selection-start-line="142" selection-start-column="34" selection-end-line="142" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0101492PBM-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468PBM-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468PBM-(random(3-5))-1000-10-gen20MultiNomal4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468PBM-(random(3-5))-1000-10-gen20MultiNomal3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image segmentation/pbmSegmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="58" column="19" lean-forward="true" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+          <folding>
+            <element signature="e#15#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468PBM-(random(3-5))-1000-10-gen20MultiNomal2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468PBM-(random(3-5))-1000-10-gen20MultiNomal5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468PBM-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581kmeans2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581kmeans1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581mock-random-1000-10nomal2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581mock-random-1000-10nomal3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581mock-random-1000-10nomal4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image segmentation/kmeansImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image segmentation/mockgenimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-864">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
