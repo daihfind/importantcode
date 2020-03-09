@@ -2,15 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="333fed26-41bc-471d-b01c-078bcbd57e15" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DSMOC/moclenew.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image segmentation/moclesegmentation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSMOC/Cluster_Ensembles.h5" beforeDir="false" afterPath="$PROJECT_DIR$/DSMOC/Cluster_Ensembles.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSMOC/dsmoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSMOC/dsmoc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSMOC/dsmoc_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSMOC/dsmoc_image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mocle/index_compute.py" beforeDir="false" afterPath="$PROJECT_DIR$/mocle/index_compute.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slic_segment/slic.py" beforeDir="false" afterPath="$PROJECT_DIR$/slic_segment/slic.py" afterDir="false" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slic_segment/3000299.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slic_segment/3001569.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagelabel/3000299.layers.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagelabel/3000299.regions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagelabel/3000299.surfaces.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagelabel/3001569.layers.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagelabel/3001569.regions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagelabel/3001569.surfaces.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image segmentation/wgraph_MCLA" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/mocle.iml" afterPath="$PROJECT_DIR$/.idea/mocle.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DSMOC/moclenew.py" afterPath="$PROJECT_DIR$/DSMOC/moclenew.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image segmentation/Cluster_Ensembles.h5" afterPath="$PROJECT_DIR$/image segmentation/Cluster_Ensembles.h5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image segmentation/kmeansImage.py" afterPath="$PROJECT_DIR$/image segmentation/kmeansImage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image segmentation/moclesegmentation.py" afterPath="$PROJECT_DIR$/image segmentation/moclesegmentation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image segmentation/out.txt" afterPath="$PROJECT_DIR$/image segmentation/out.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image segmentation/pbmSegmentation.py" afterPath="$PROJECT_DIR$/image segmentation/pbmSegmentation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image segmentation/wgraph_CSPA" afterPath="$PROJECT_DIR$/image segmentation/wgraph_CSPA" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slic_segment/slic.py" afterPath="$PROJECT_DIR$/slic_segment/slic.py" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +32,40 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="mocle" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="moclesegmentation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image segmentation/moclesegmentation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="58" column="27" lean-forward="true" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pbmSegmentation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/image segmentation/pbmSegmentation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="61" column="33" lean-forward="true" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kmeansImage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image segmentation/kmeansImage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="60" column="33" lean-forward="false" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,8 +77,65 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DSMOC/moclenew.py" />
+        <option value="$PROJECT_DIR$/slic_segment/slic.py" />
+        <option value="$PROJECT_DIR$/image segmentation/moclesegmentation.py" />
+        <option value="$PROJECT_DIR$/image segmentation/kmeansImage.py" />
+        <option value="$PROJECT_DIR$/image segmentation/pbmSegmentation.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="95" />
+    <option name="y" value="-4" />
+    <option name="width" value="858" />
+    <option name="height" value="775" />
+  </component>
   <component name="ProjectId" id="1YrzH0uxik1ABf2Ldmb8NOa0dx0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+              <item name="aftersegmentationimagenew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocle" type="462c0819:PsiDirectoryNode" />
+              <item name="image segmentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,10 +144,17 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imagelabel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/slic_segment" />
+      <recent name="$PROJECT_DIR$/imagelabel" />
+      <recent name="$PROJECT_DIR$/mockgensolution" />
+      <recent name="$PROJECT_DIR$/aftersegmentationnimage" />
+      <recent name="$PROJECT_DIR$/image segmentation" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mockpixeldata" />
       <recent name="$PROJECT_DIR$/slic_segment" />
@@ -50,38 +162,21 @@
       <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/mocle" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/imagelabel" />
-      <recent name="$PROJECT_DIR$/slic_segment" />
-      <recent name="$PROJECT_DIR$/mockgensolution" />
-      <recent name="$PROJECT_DIR$/aftersegmentationnimage" />
-      <recent name="$PROJECT_DIR$/image segmentation" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.moclesegmentation">
-    <configuration name="dsmoc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mocle" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSMOC" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSMOC/dsmoc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mockgenimage" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mocle" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pbmSegmentation">
+    <configuration name="kmeansImage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -92,17 +187,30 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mocle" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image segmentation/kmeansImage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="mockgenimage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image segmentation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mocle" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image segmentation/mockgenimage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="moclenew" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mocle" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -113,17 +221,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mocle" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSMOC/moclenew.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="moclesegmentation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mocle" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -134,17 +238,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mocle" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image segmentation/moclesegmentation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="pbmSegmentation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mocle" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -155,31 +255,31 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mocle" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image segmentation/pbmSegmentation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.mockgenimage" />
-      <item itemvalue="Python.pbmSegmentation" />
-      <item itemvalue="Python.moclesegmentation" />
-      <item itemvalue="Python.moclenew" />
-      <item itemvalue="Python.dsmoc" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.pbmSegmentation" />
+      <item index="1" class="java.lang.String" itemvalue="Python.moclesegmentation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.moclenew" />
+      <item index="3" class="java.lang.String" itemvalue="Python.mockgenimage" />
+      <item index="4" class="java.lang.String" itemvalue="Python.kmeansImage" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Python.moclesegmentation" />
-        <item itemvalue="Python.dsmoc" />
-        <item itemvalue="Python.moclenew" />
-        <item itemvalue="Python.pbmSegmentation" />
-        <item itemvalue="Python.mockgenimage" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.pbmSegmentation" />
+        <item index="1" class="java.lang.String" itemvalue="Python.kmeansImage" />
+        <item index="2" class="java.lang.String" itemvalue="Python.moclesegmentation" />
+        <item index="3" class="java.lang.String" itemvalue="Python.mockgenimage" />
+        <item index="4" class="java.lang.String" itemvalue="Python.moclenew" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_MODE" value="false" />
@@ -206,6 +306,33 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1851" height="893" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31785518" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2750978" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583761547278">
@@ -429,5 +556,174 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DSMOC/moclenew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="162" column="18" lean-forward="true" selection-start-line="162" selection-start-column="18" selection-end-line="162" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slic_segment/slic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="193" column="26" lean-forward="false" selection-start-line="193" selection-start-column="26" selection-end-line="193" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-MOCLE-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-MOCLE-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581PBM-MOCLE-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581PBM-MOCLE-(random(3-5))-1000-10-gen20MultiNomal2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581PBM-MOCLE-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/9004581PBM-MOCLE-(random(3-5))-1000-10-gen20MultiNomal3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468PBM-(random(3-5))-1000-10-gen20MultiNomal6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468mock-random-1000-10nomal7.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468mock-random-1000-10nomal5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468mock-random-1000-10nomal4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468kmeans9.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468PBM-(random(3-5))-1000-10-gen20MultiNomal7.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468PBM-MOCLE-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468PBM-MOCLE-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468PBM-(random(3-5))-1000-10-gen20MultiNomal8.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagelabel/3000299.surfaces.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagelabel/3001569.surfaces.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3001569PBM-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3001569PBM-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3001569PBM-MOCLE-(random(3-5))-1000-10-gen20MultiNomal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3001569PBM-(random(3-5))-1000-10-gen20MultiNomal2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3000323PBM-MOCLE-(random(3-5))-1000-10-gen20MultiNomal2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/3001569PBM-MOCLE-(random(3-5))-1000-10-gen20MultiNomal0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aftersegmentationimagenew/0103468PBM-(random(3-5))-1000-10-gen20MultiNomal3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image segmentation/kmeansImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="60" column="33" lean-forward="false" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image segmentation/moclesegmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="58" column="27" lean-forward="true" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image segmentation/pbmSegmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="61" column="33" lean-forward="true" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

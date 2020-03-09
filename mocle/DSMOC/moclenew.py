@@ -168,7 +168,7 @@ def moclenew(datamat):
         popcrossover = np.array(popcrossover)
         hypergraph_adjacency = build_hypergraph_adjacency(popcrossover)
         store_hypergraph_adjacency(hypergraph_adjacency, hdf5_file_name)
-        resultList = CE.CSPA(hdf5_file_name, popcrossover, verbose=True, N_clusters_max=k)
+        resultList = CE.MCLA(hdf5_file_name, popcrossover, verbose=True, N_clusters_max=k)
         ind_ensemble = creator.Individual(resultList)
         newoffspring.append(ind_ensemble)
 
