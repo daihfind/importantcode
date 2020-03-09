@@ -8,9 +8,7 @@ from numpy import *
 import numpy as np
 from sklearn.cluster.k_means_ import KMeans
 from sklearn.cluster import AgglomerativeClustering
-import Cluster_Ensembles as CE
 import tables
-from Cluster_Ensembles.Cluster_Ensembles import build_hypergraph_adjacency, store_hypergraph_adjacency
 from sklearn import preprocessing
 import array
 from sklearn.metrics.cluster import adjusted_rand_score,normalized_mutual_info_score
@@ -175,10 +173,6 @@ def multirun(datasetName,times):
         # pop.extend(pop_average)
 
 
-        hdf5_file_name = './Cluster_Ensembles.h5'
-        fileh = tables.open_file(hdf5_file_name, 'w')
-        fileh.create_group(fileh.root, 'consensus_group')
-        fileh.close()
         pop = np.array(pop)
         similaritymat = zeros((len(datamat), len(datamat)))
         avesimilaritymat = zeros((len(datamat), len(datamat)))
@@ -199,9 +193,6 @@ def multirun(datasetName,times):
         a = 0.025
         avesimilaritymat = a * similaritymat  # 计算每个矩阵的平均相似度
         avesimilaritymat = np.array(avesimilaritymat)
-        hypergraph_adjacency = build_hypergraph_adjacency(avesimilaritymat)
-        store_hypergraph_adjacency(hypergraph_adjacency, hdf5_file_name)
-        # consensus_clustering_labels = CE.CSPA(hdf5_file_name, avesimilaritymat, verbose=True, N_clusters_max=3)
         consensus_clustering_labels = SpectralClustering(n_clusters=10, affinity="precomputed").fit_predict(avesimilaritymat)
         nmi = normalized_mutual_info_score(datalabels, consensus_clustering_labels)
         ari = adjusted_rand_score(datalabels, consensus_clustering_labels)

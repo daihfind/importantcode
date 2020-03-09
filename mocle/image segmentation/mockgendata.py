@@ -1,10 +1,10 @@
 #coding:utf-8
 from slic_segment.slic import SLICProcessor
 #
-pro = SLICProcessor('../slic_segment/1000615.jpg', 1000, 10)
+pro = SLICProcessor('../slic_segment/0103468.jpg', 1000, 10)
 superPixelMatrix, clusters = pro.getDataForDSMOCMulti()
-doc = open('../mockimagedata/mockdata1000615.txt','w')
-doc2 = open('../mockimagedata/clusters1000615.txt','w')
+doc = open('../mockimagedata/mockdata0103468.txt','w')
+doc2 = open('../mockimagedata/clusters0103468.txt','w')
 for m in range(len(superPixelMatrix)):
     for n in range(len(superPixelMatrix[0])):
         # if (n != 0):

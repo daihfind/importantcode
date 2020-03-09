@@ -32,7 +32,7 @@ def trans(filename):
 def transsuperPixel(filenpath):
     fr = open(filenpath)
     arraylines = fr.readlines()
-    datafile = open('9004581mocksuperPixel.txt', 'w')
+    datafile = open('0103468mocksuperPixel.txt', 'w')
     for line in arraylines:
         linestr = line.strip()  # 不加任何参数去除的是空格
         linestrlist = linestr.split(' ')  # 用split会返回一个list
@@ -43,4 +43,4 @@ def transsuperPixel(filenpath):
     datafile.close()
     return arraylines
 if __name__ == '__main__':
-    transsuperPixel('../mockimagedata/mockdata9004581.txt')
+    transsuperPixel('../mockimagedata/mockdata0103468.txt')

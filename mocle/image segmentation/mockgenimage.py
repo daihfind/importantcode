@@ -41,17 +41,17 @@ def getsuperpixelData(filename):
 
 
 if __name__ == '__main__':
-    rgb = io.imread('../slic_segment/9004581.jpg')
+    rgb = io.imread('../slic_segment/3000323.jpg')
     lab_arr = color.rgb2lab(rgb)
     pic_new = image.new("L", (lab_arr.shape[1], lab_arr.shape[0]))
     predict_matrix = np.zeros((lab_arr.shape[0], lab_arr.shape[1]))
 
-    fo = open('../mockimagedata/clusters9004581.txt')
+    fo = open('../mockimagedata/clusters3000323.txt')
     clusterslines = fo.readlines()
 
 
 
-    mocklabel = getMockResult('../mockgensolution/9004581-7-51.solution')
+    mocklabel = getMockResult('../mockk5numbersolution/3000323-6-17.solution')
     clusterArrList = []
     clusterArrList.extend(list(set(mocklabel)))
     for label in clusterArrList:
@@ -60,7 +60,6 @@ if __name__ == '__main__':
             if element == label:
                 clusterslinelist = clusterslines[index].split('s')
                 if clusterslinelist[0] == '\n':
-                    print 111
                     continue
                 for pairlen in range(len(clusterslinelist)-1):
                     pairElement = clusterslinelist[pairlen].split(',')
@@ -71,17 +70,17 @@ if __name__ == '__main__':
 
             index += 1
 
-    pic_new.save("../aftersegmentationimagenew/9004581mock-random-1000-10nomal7.jpg", "JPEG")
+    pic_new.save("../aftersegmentationimagenew/3000323mock-1000-10k5number5.jpg", "JPEG")
 
     predictList = []
     for i in range(lab_arr.shape[0]):
         for j in range(lab_arr.shape[1]):
             predictList.append(predict_matrix[i][j])
-    regionslabel = loadlabel("../imagelabel/9004581.regions.txt")
-    layerslabel = loadlabel("../imagelabel/9004581.layers.txt")
-    surfaceslabel = loadlabel("../imagelabel/9004581.surfaces.txt")
+    regionslabel = loadlabel("../imagelabel/3000323.regions.txt")
+    layerslabel = loadlabel("../imagelabel/3000323.layers.txt")
+    surfaceslabel = loadlabel("../imagelabel/3000323.surfaces.txt")
 
-    mockdata = getsuperpixelData("../mockimagedata/9004581mocksuperPixel.txt")
+    mockdata = getsuperpixelData("../mockimagedata/3000323mocksuperPixel.txt")
     pbmlabel = []
     pbmlabel.append(mocklabel)
     result,pbmvalue = computePBM(mockdata,pbmlabel)

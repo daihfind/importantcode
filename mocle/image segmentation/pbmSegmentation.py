@@ -19,7 +19,7 @@ from slic_segment.slic import SLICProcessor
 #     return np.array(data),m,n
 #
 # imgData,row,col =loadData('bull.jpeg')#加载数据
-
+picturenumber = '0000051'
 def loadlabel(filepath):
     fr = open(filepath)
     arraylines = fr.readlines()
@@ -30,10 +30,10 @@ def loadlabel(filepath):
 
 
 
-regionslabel = loadlabel("../imagelabel/0103468.regions.txt")
-layerslabel = loadlabel("../imagelabel/0103468.layers.txt")
-surfaceslabel = loadlabel("../imagelabel/0103468.surfaces.txt")
-pro = SLICProcessor('../slic_segment/0103468.jpg', 1000, 10)
+regionslabel = loadlabel("../imagelabel/%s.regions.txt"%picturenumber)
+layerslabel = loadlabel("../imagelabel/%s.layers.txt"%picturenumber)
+surfaceslabel = loadlabel("../imagelabel/%s.surfaces.txt"%picturenumber)
+pro = SLICProcessor('../slic_segment/%s.jpg'%picturenumber, 1000, 10)
 superPixelMatrix, clusters = pro.getDataForDSMOCMulti()
 
 
@@ -57,7 +57,7 @@ for label in clusterArrList:
                 pic_new.putpixel((p[1], p[0]), int(256 / (label+1)))
                 predict_matrix[p[0]][p[1]] = label
         index2 += 1
-pic_new.save("../aftersegmentationimagenew/0103468PBM-(random(3-5))-1000-10-gen20MultiNomal9.jpg", "JPEG")
+pic_new.save("../aftersegmentationimagenew/%sPBM-(random(3-5))-1000-10-gen20MultiNomal3.jpg"%picturenumber, "JPEG")
 predictList = []
 for i in range(pro.image_height):
     for j in range(pro.image_width):
