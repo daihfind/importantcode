@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="333fed26-41bc-471d-b01c-078bcbd57e15" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image segmentation/rsnnsegmentation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagelabel/0000051.layers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagelabel/0000051.regions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagelabel/0000051.surfaces.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mockpixeldata/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mockpixeldata/mockpixeldata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slic_segment/0000051.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mocle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mocle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSMOC/moclenew.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image segmentation/moclesegmentation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aftersegmentationimagenew/9004581mock-random-1000-10nomal5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/aftersegmentationimagenew/9004581mock-random-1000-10nomal5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image segmentation/kmeansImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/image segmentation/kmeansImage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image segmentation/mockgendata.py" beforeDir="false" afterPath="$PROJECT_DIR$/image segmentation/mockgendata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image segmentation/mockgenimage.py" beforeDir="false" afterPath="$PROJECT_DIR$/image segmentation/mockgenimage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image segmentation/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image segmentation/out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image segmentation/pbmSegmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/image segmentation/pbmSegmentation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/mockdatatrans.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/mockdatatrans.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/rsnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/rsnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSMOC/Cluster_Ensembles.h5" beforeDir="false" afterPath="$PROJECT_DIR$/DSMOC/Cluster_Ensembles.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSMOC/dsmoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSMOC/dsmoc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSMOC/dsmoc_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSMOC/dsmoc_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocle/index_compute.py" beforeDir="false" afterPath="$PROJECT_DIR$/mocle/index_compute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slic_segment/slic.py" beforeDir="false" afterPath="$PROJECT_DIR$/slic_segment/slic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,40 +25,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>fitness</find>
-      <find>FitnessMin</find>
-      <find>population</find>
-      <find>check_clusterings</find>
-      <find>6</find>
-      <find>print</find>
-      <find>random</find>
-      <find>tolist</find>
-      <find>array(</find>
-      <find>,</find>
-      <find>round</find>
-      <find>adjusted_rand_score</find>
-      <find>multiRunSelect</find>
-      <find>da</find>
-      <find>wgraph_MCLA</find>
-      <find>49代</find>
-      <find>运行</find>
-      <find>第3</find>
-      <find>transformation</find>
-      <find>shape</find>
-      <find>set</find>
-      <find>difference</find>
-      <find>computeR</find>
-      <find>次</find>
-      <find>代</find>
-      <find>concept-modes</find>
-      <find>nmi</find>
-      <find>结束</find>
-      <find>zeros</find>
-      <find>pixels</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -103,8 +58,8 @@
       <recent name="$PROJECT_DIR$/image segmentation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pbmSegmentation">
-    <configuration name="mockdatatrans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.moclesegmentation">
+    <configuration name="dsmoc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mocle" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,32 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSMOC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/mockdatatrans.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mockgendata" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mocle" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image segmentation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image segmentation/mockgendata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSMOC/dsmoc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mockpixeldata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="moclenew" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mocle" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,11 +109,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mockpixeldata" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSMOC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mockpixeldata/mockpixeldata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSMOC/moclenew.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="moclesegmentation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mocle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image segmentation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image segmentation/moclesegmentation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,19 +165,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.mockdatatrans" />
-      <item itemvalue="Python.mockgendata" />
       <item itemvalue="Python.mockgenimage" />
-      <item itemvalue="Python.mockpixeldata" />
       <item itemvalue="Python.pbmSegmentation" />
+      <item itemvalue="Python.moclesegmentation" />
+      <item itemvalue="Python.moclenew" />
+      <item itemvalue="Python.dsmoc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.moclesegmentation" />
+        <item itemvalue="Python.dsmoc" />
+        <item itemvalue="Python.moclenew" />
         <item itemvalue="Python.pbmSegmentation" />
         <item itemvalue="Python.mockgenimage" />
-        <item itemvalue="Python.mockpixeldata" />
-        <item itemvalue="Python.mockdatatrans" />
-        <item itemvalue="Python.mockgendata" />
       </list>
     </recent_temporary>
   </component>
@@ -253,50 +208,54 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1849" height="542" key="DebuggerActiveHint" timestamp="1583734519138">
+    <state x="537" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583761547278">
       <screen x="65" y="24" width="1851" height="865" />
     </state>
-    <state width="1849" height="542" key="DebuggerActiveHint/65.24.1851.865@65.24.1851.865" timestamp="1583734519138" />
-    <state width="1825" height="252" key="GridCell.Tab.0.bottom" timestamp="1583750070876">
+    <state x="537" y="243" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1851.865@65.24.1851.865" timestamp="1583761547278" />
+    <state width="1849" height="542" key="DebuggerActiveHint" timestamp="1583759739910">
       <screen x="65" y="24" width="1851" height="865" />
     </state>
-    <state width="1825" height="252" key="GridCell.Tab.0.bottom/65.24.1851.865@65.24.1851.865" timestamp="1583750070876" />
-    <state width="1825" height="252" key="GridCell.Tab.0.center" timestamp="1583750070875">
+    <state width="1849" height="542" key="DebuggerActiveHint/65.24.1851.865@65.24.1851.865" timestamp="1583759739910" />
+    <state width="1825" height="251" key="GridCell.Tab.0.bottom" timestamp="1583761619584">
       <screen x="65" y="24" width="1851" height="865" />
     </state>
-    <state width="1825" height="252" key="GridCell.Tab.0.center/65.24.1851.865@65.24.1851.865" timestamp="1583750070875" />
-    <state width="1825" height="252" key="GridCell.Tab.0.left" timestamp="1583750070875">
+    <state width="1825" height="251" key="GridCell.Tab.0.bottom/65.24.1851.865@65.24.1851.865" timestamp="1583761619584" />
+    <state width="1825" height="251" key="GridCell.Tab.0.center" timestamp="1583761619583">
       <screen x="65" y="24" width="1851" height="865" />
     </state>
-    <state width="1825" height="252" key="GridCell.Tab.0.left/65.24.1851.865@65.24.1851.865" timestamp="1583750070875" />
-    <state width="1825" height="252" key="GridCell.Tab.0.right" timestamp="1583750070875">
+    <state width="1825" height="251" key="GridCell.Tab.0.center/65.24.1851.865@65.24.1851.865" timestamp="1583761619583" />
+    <state width="1825" height="251" key="GridCell.Tab.0.left" timestamp="1583761619583">
       <screen x="65" y="24" width="1851" height="865" />
     </state>
-    <state width="1825" height="252" key="GridCell.Tab.0.right/65.24.1851.865@65.24.1851.865" timestamp="1583750070875" />
-    <state width="1825" height="252" key="GridCell.Tab.1.bottom" timestamp="1583750070877">
+    <state width="1825" height="251" key="GridCell.Tab.0.left/65.24.1851.865@65.24.1851.865" timestamp="1583761619583" />
+    <state width="1825" height="251" key="GridCell.Tab.0.right" timestamp="1583761619584">
       <screen x="65" y="24" width="1851" height="865" />
     </state>
-    <state width="1825" height="252" key="GridCell.Tab.1.bottom/65.24.1851.865@65.24.1851.865" timestamp="1583750070877" />
-    <state width="1825" height="252" key="GridCell.Tab.1.center" timestamp="1583750070876">
+    <state width="1825" height="251" key="GridCell.Tab.0.right/65.24.1851.865@65.24.1851.865" timestamp="1583761619584" />
+    <state width="1825" height="252" key="GridCell.Tab.1.bottom" timestamp="1583760054990">
       <screen x="65" y="24" width="1851" height="865" />
     </state>
-    <state width="1825" height="252" key="GridCell.Tab.1.center/65.24.1851.865@65.24.1851.865" timestamp="1583750070876" />
-    <state width="1825" height="252" key="GridCell.Tab.1.left" timestamp="1583750070876">
+    <state width="1825" height="252" key="GridCell.Tab.1.bottom/65.24.1851.865@65.24.1851.865" timestamp="1583760054990" />
+    <state width="1825" height="252" key="GridCell.Tab.1.center" timestamp="1583760054989">
       <screen x="65" y="24" width="1851" height="865" />
     </state>
-    <state width="1825" height="252" key="GridCell.Tab.1.left/65.24.1851.865@65.24.1851.865" timestamp="1583750070876" />
-    <state width="1825" height="252" key="GridCell.Tab.1.right" timestamp="1583750070877">
+    <state width="1825" height="252" key="GridCell.Tab.1.center/65.24.1851.865@65.24.1851.865" timestamp="1583760054989" />
+    <state width="1825" height="252" key="GridCell.Tab.1.left" timestamp="1583760054989">
       <screen x="65" y="24" width="1851" height="865" />
     </state>
-    <state width="1825" height="252" key="GridCell.Tab.1.right/65.24.1851.865@65.24.1851.865" timestamp="1583750070877" />
+    <state width="1825" height="252" key="GridCell.Tab.1.left/65.24.1851.865@65.24.1851.865" timestamp="1583760054989" />
+    <state width="1825" height="252" key="GridCell.Tab.1.right" timestamp="1583760054990">
+      <screen x="65" y="24" width="1851" height="865" />
+    </state>
+    <state width="1825" height="252" key="GridCell.Tab.1.right/65.24.1851.865@65.24.1851.865" timestamp="1583760054990" />
     <state x="514" y="78" key="SettingsEditor" timestamp="1583715551013">
       <screen x="65" y="24" width="1851" height="865" />
     </state>
     <state x="514" y="78" key="SettingsEditor/65.24.1851.865@65.24.1851.865" timestamp="1583715551013" />
-    <state x="601" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1583753070272">
+    <state x="601" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1583760384564">
       <screen x="65" y="24" width="1851" height="865" />
     </state>
-    <state x="601" y="271" key="com.intellij.ide.util.TipDialog/65.24.1851.865@65.24.1851.865" timestamp="1583753070272" />
+    <state x="601" y="271" key="com.intellij.ide.util.TipDialog/65.24.1851.865@65.24.1851.865" timestamp="1583760384564" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -455,6 +414,11 @@
           <url>file://$PROJECT_DIR$/mockpixeldata/mockpixeldata.py</url>
           <line>14</line>
           <option name="timeStamp" value="537" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DSMOC/moclenew.py</url>
+          <line>168</line>
+          <option name="timeStamp" value="540" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

@@ -258,7 +258,7 @@ def dsmoc(datamat):
     print "数据点距离矩阵计算完毕"
     invalid_ind = [ind for ind in population if not ind.fitness.valid]
     for ind in invalid_ind:
-        euDistance,eu_connect = mocle_index(datamat,distances_matrix,ind)
+        euDistance,eu_connect = dsmoc_index(datamat,distances_matrix,ind)
         fitnesses = (euDistance,eu_connect)
         ind.fitness.values = fitnesses
     # fitnesses = toolbox.map(toolbox.evaluate, tile(datamat,(len(invalid_ind),1,1)),tile(distances_matrix,(len(invalid_ind),1,1)),invalid_ind)

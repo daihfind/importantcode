@@ -448,7 +448,26 @@ def mocle_index(dataset,distances_matrix,label,num=3): #num　是相关系数的
     # result = formula_five(data=dataset, labels=label)
     return euDistance,eu_connect
 
-
+def dsmoc_index(dataset,distances_matrix,label,num=3): #num　是相关系数的个数取值
+    # 欧氏距离和，紧凑度
+    euDistance = sum_Euc_dist2(dataset,label)
+    #连通性函数
+    eu_connect = connectivity_eu(distances_matrix=distances_matrix,labels=label,num=num)
+    # eu_sample = intra_sample(data = dataset,labels=label)
+    # centroids = getCentroids(data=dataset, labels=label)
+    # dbi = daviesbouldin(data = dataset, labels= label)
+    # P_connect = connectivity_pears(data=dataset,labels=label,num=num)
+    # cosine = ind_similarity(pop_predicted,label)
+    # result = formula_one(data = dataset,labels=label)
+    # centroids = getCentroids(data=dataset, labels=label)
+    # sep = getSepration(centroids)
+    # nor_sep = 1.0/sep
+    # sepresult = 1/sep
+    # result = formula_two(data=dataset, labels=label)
+    # result = formula_three(data=dataset, labels=label)
+    # result = formula_four(data=dataset, labels=label,eudataPointMatrix=eudataPointMatrix) #用这个做实验
+    # result = formula_five(data=dataset, labels=label)
+    return euDistance,eu_connect
 
 # Takes two partitions and returns the correct Rand index of similarity (x <= 1)
 # Always returns 1 on equal data

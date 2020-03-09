@@ -191,7 +191,7 @@ class SLICProcessor(object):
     def getDataForDSMOCMulti(self):
         self.init_clusters()
         self.move_clusters()
-        for i in trange(10):
+        for i in trange(1):
             self.assignment()
             self.update_cluster()
         super_pixel_matrix = self.transformMatrix()

@@ -180,7 +180,7 @@ def multirun(datasetName):
     path = '../dataset/'+datasetName
     datamat,datalabels = loadDataset(path)
     print 'data ready'
-    sampledData, remainedData, sampledIndex, remainedIndex= data_sample(datamat,1,10)
+    sampledData, remainedData, sampledIndex, remainedIndex= data_sample(datamat,1,2)
     print 'sampledData ready'
 
     pop_kmeans = rsnn(sampledData, remainedData, sampledIndex, remainedIndex,'kmeans')
@@ -333,7 +333,7 @@ def main():
     ari_arr = []
     times = 10
     for i in range(times):
-        nmi,ari = multirun('phishing.data')
+        nmi,ari = multirun('fertility.data')
         nmi_arr.append(nmi)
         ari_arr.append(ari)
         print '第%s次运行结束' % i
