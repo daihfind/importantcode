@@ -19,7 +19,7 @@ from slic_segment.slic import SLICProcessor
 #     return np.array(data),m,n
 #
 # imgData,row,col =loadData('bull.jpeg')#加载数据
-picturenumber = '3001569'
+picturenumber = '5000194'
 def loadlabel(filepath):
     fr = open(filepath)
     arraylines = fr.readlines()
@@ -57,7 +57,7 @@ for label in clusterArrList:
                 pic_new.putpixel((p[1], p[0]), int(256 / (label+1)))
                 predict_matrix[p[0]][p[1]] = label
         index2 += 1
-pic_new.save("../aftersegmentationimagenew/%sPBM-(random(3-5))-1000-10-gen20MultiNomal6.jpg"%picturenumber, "JPEG")
+pic_new.save("../aftersegmentationimagenew/%sPBM-(random(3-5))-1000-10-gen20MultiNomal1.jpg"%picturenumber, "JPEG")
 predictList = []
 for i in range(pro.image_height):
     for j in range(pro.image_width):
