@@ -36,10 +36,10 @@ def loadlabel(filepath):
         label.extend(line.split(" "))
 
     return label
-regionslabel = loadlabel("../imagelabel/3001569.regions.txt")
-layerslabel = loadlabel("../imagelabel/3001569.layers.txt")
-surfaceslabel = loadlabel("../imagelabel/3001569.surfaces.txt")
-imgData,row,col =loadData('../slic_segment/3001569.jpg')#加载数据
+regionslabel = loadlabel("../imagelabel/0010830.regions.txt")
+layerslabel = loadlabel("../imagelabel/0010830.layers.txt")
+surfaceslabel = loadlabel("../imagelabel/0010830.surfaces.txt")
+imgData,row,col =loadData('../slic_segment/0010830.jpg')#加载数据
 
 km=KMeans(n_clusters=4)
 #聚类获得每个像素所属的类别
@@ -64,4 +64,4 @@ print "regionslabel为%s"%regionslabel
 print "layerslabel为%s"%layerslabel
 print "surfaceslabel为%s"%surfaceslabel
 #以JPEG格式保存图像
-pic_new.save("../aftersegmentationimagenew/3001569kmeans3.jpg","JPEG")
+pic_new.save("../aftersegmentationimagenew/0010830kmeans5.jpg","JPEG")
